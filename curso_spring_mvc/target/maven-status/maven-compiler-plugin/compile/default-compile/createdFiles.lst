@@ -1,0 +1,4 @@
+br\com\softsquare\App.class
+br\com\softsquare\web\MyWebInitializer.class
+br\com\softsquare\controller\HelloController.class
+br\com\softsquare\config\SpringWebConfig.class
